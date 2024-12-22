@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../../assets/pxfuel.jpg); 
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: -1; 
+    position: relative; 
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    width: 45rem;
+    flex-wrap: wrap; 
+    z-index: 1; 
+    position: relative;
+}
+
+.card {
+    position: relative;
+    width: 3rem;
+    border-radius: 5rem;
+    height: 25rem;
+    overflow: hidden;
+    transition: .4s ease-in-out;
+    box-shadow: 0 5px 12px rgba(0, 0, 0, .3);
+    flex: .15;
+    max-width: 9rem; 
+}
+
+.card img {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.card:hover {
+    flex: 1 1 0; 
+    max-width: 14rem; 
+    cursor: pointer;
+    border-radius: 1rem; 
+}

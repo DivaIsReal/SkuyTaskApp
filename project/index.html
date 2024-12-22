@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Web Design Homepage</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+  <style>
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="container">
+      <div class="logo">
+        <img src="../assets/logo.png" alt="Logo">
+        <span class="brand-name">SkuyTask</span>
+      </div>
+    </div>
+  </header>
+  
+
+  <section class="hero">
+    <div class="content">
+      <h1>SKUY TASK</h1>
+      <p>Selamat datang di SkuyTask! Platform all-in-one untuk mahasiswa produktif. Kelola to-do list, atur waktu belajar dengan Pomodoro Timer, dan capai tujuanmu dengan lebih terorganisir. Skuy produktif, Skuy belajar!</p>
+      <a href="dashboard/dashboard.html" class="btn">Get Started</a>
+    </div>
+  </section>
+
+<style>
+   
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-image: url("../assets/sky1.jpg"); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+ 
+
+}
+
+
+header .container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  
+}
+
+.logo img {
+  height: 100px; 
+  width: auto; 
+}
+
+.brand-name {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: #000000;
+  margin-right: 30px;
+}
+
+.hero {
+  text-align: center;
+  padding: 200px 20px;
+}
+
+.hero h1 {
+  font-size: 4.5rem;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 1rem;
+  line-height: 1.8;
+  color: #ddd;
+  max-width: 700px;
+  margin: 0 auto 30px;
+}
+
+.hero .btn {
+  display: inline-block;
+  padding: 15px 30px;
+  background: #e2e2e2;
+  color: #068d70;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 5px;
+}
+
+.hero .btn:hover {
+  background: #4bc3b3;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.social-icons {
+  position: absolute; 
+  top: 20px; 
+  right: 20px; 
+  display: flex;
+  gap: 15px; 
+}
+
+.social-icons a img {
+  height: 30px; 
+  width: auto;
+  transition: transform 0.3s ease; 
+}
+
+.social-icons a img:hover {
+  transform: scale(1.1); 
+}
+
+</style>
