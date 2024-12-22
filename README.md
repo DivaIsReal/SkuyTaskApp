@@ -9,11 +9,8 @@
     <div align="center">
         <h1>🌟 SkuyTask 🌟</h1>
     </div>
-
     <p><strong>SkuyTask</strong> adalah aplikasi manajemen waktu dan produktivitas yang menggabungkan fitur to-do list dengan Pomodoro timer. Dirancang untuk membantu pengguna mengelola tugas dengan lebih efisien dan menjaga fokus saat bekerja. 💪✨</p>
-
     <hr>
-
     <h2>✨ Fitur</h2>
     <ul>
         <li><strong>To-Do List ✅</strong>
@@ -35,9 +32,7 @@
             </ul>
         </li>
     </ul>
-
     <hr>
-
     <h2>🚀 Instalasi</h2>
     <ol>
         <li>Clone repositori ini ke komputer Anda:
@@ -53,9 +48,7 @@
             <pre><code>python main.py</code></pre>
         </li>
     </ol>
-
     <hr>
-
     <h2>📚 Cara Penggunaan</h2>
     <ol>
         <li>Buka aplikasi dengan menjalankan perintah di atas.</li>
@@ -73,9 +66,7 @@
         </li>
         <li>Statistik sesi akan diperbarui secara otomatis setelah setiap sesi selesai. 📈</li>
     </ol>
-
     <hr>
-
     <h2>🤝 Kontribusi</h2>
     <p>Kami menyambut kontribusi dari komunitas! Berikut langkah-langkah untuk berkontribusi:</p>
     <ol>
@@ -91,14 +82,10 @@
         </li>
         <li>Ajukan pull request ke branch <code>main</code>. 🙌</li>
     </ol>
-
     <hr>
-
     <h2>📜 Lisensi</h2>
     <p>Proyek ini dilisensikan di bawah <a href="LICENSE">MIT License</a>. 📄</p>
-
     <hr>
-
     <h2>📬 Kontak</h2>
     <p>Untuk pertanyaan lebih lanjut atau melaporkan bug, silakan hubungi:</p>
     <ul>
