@@ -1,6 +1,8 @@
 <p><h1><strong>SkuyTask</strong></h1></p> 
 <p>Selamat datang di SkuyTask! Platform all-in-one untuk mahasiswa produktif. Kelola to-do list, atur waktu belajar dengan Pomodoro Timer, dan capai tujuanmu dengan lebih terorganisir. Skuy produktif, Skuy belajar!.</p>
-
+<ul>
+     <li>Akses Aplikasi Disini: <a href="https://divaisreal.github.io/SkuyTaskApp/project/index.html">SkuyTask.com</a></li>
+</ul>
 <hr>
 
 <h2>Fitur</h2>
