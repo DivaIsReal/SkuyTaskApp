@@ -75,11 +75,17 @@
     </li>
     <li><strong>Pomodoro Timer</strong>:
         <ul>
-            <li>Atur durasi waktu kerja dan istirahat sesuai kebutuhan Anda.</li>
-            <li>Mulai timer dan fokus pada pekerjaan selama waktu yang ditentukan.</li>
+            <li>Atur durasi waktu belajar dan istirahat sesuai kebutuhan Anda.</li>
+            <li>Mulai timer dan fokus pada belajar selama waktu yang ditentukan.</li>
         </ul>
     </li>
-    <li>Statistik sesi akan diperbarui secara otomatis setelah setiap sesi selesai.</li>
+    <li><strong>Quoteskuy</strong>:
+        <ul>
+            <li>Klik cari quotes dan anda akan mendapatkan random quotes.</li>
+        </ul>
+    </li>
+    
+    
 </ol>
 
 <hr>
