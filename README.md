@@ -10,6 +10,7 @@
             <li>Tandai tugas yang telah selesai.</li>
         </ul>
     </li>
+    <br>
     <li><strong>Pomodoro Timer</strong>
         <ul>
             <li>Atur waktu kerja (misalnya, 25 menit) dan istirahat (misalnya, 5 menit).</li>
