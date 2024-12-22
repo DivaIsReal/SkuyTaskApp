@@ -98,6 +98,6 @@
 <h2>Kontak</h2>
 <p>Untuk pertanyaan lebih lanjut atau melaporkan bug, silakan hubungi:</p>
 <ul>
-    <li>Email: your-email@example.com</li>
-    <li>GitHub: <a href="https://github.com/username">username</a></li>
+    <li>Email: divaahmadpradana72@gmail.com.com</li>
+    <li>GitHub: <a href="https://github.com/DivaIsReal">username</a></li>
 </ul>
