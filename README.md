@@ -8,18 +8,29 @@
         <ul>
             <li>Tambahkan, edit, dan hapus tugas dengan mudah.</li>
             <li>Tandai tugas yang telah selesai.</li>
-            <li>Kategorisasi tugas berdasarkan prioritas atau jenis.</li>
         </ul>
     </li>
     <li><strong>Pomodoro Timer</strong>
         <ul>
             <li>Atur waktu kerja (misalnya, 25 menit) dan istirahat (misalnya, 5 menit).</li>
-            <li>Hitung statistik sesi kerja untuk analisis produktivitas.</li>
+            <li>Ada motivasi sederhana dari developer.</li>
         </ul>
     </li>
     <li><strong>User-Friendly Interface</strong>
         <ul>
             <li>Antarmuka yang sederhana dan mudah digunakan.</li>
+        </ul>
+    </li>
+    <li><strong>Spotify Playlist</strong>
+        <ul>
+            <li>Belajar sambil mendengarkan musik.</li>
+            <li>Belajar menjadi fokus dan tidak ngantuk.</li>
+        </ul>
+    </li>
+     <li><strong>Gacha Quotes</strong>
+        <ul>
+            <li>Mendapatkan quotes motivasi secara acak.</li>
+            <li>Menghilangkan rasa boring.</li>
         </ul>
     </li>
 </ul>
