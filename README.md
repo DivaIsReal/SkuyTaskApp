@@ -1,4 +1,4 @@
-<p><strong>SkuyTask</strong></p> 
+<p><h1><strong>SkuyTask</strong></h1></p> 
 <p>Selamat datang di SkuyTask! Platform all-in-one untuk mahasiswa produktif. Kelola to-do list, atur waktu belajar dengan Pomodoro Timer, dan capai tujuanmu dengan lebih terorganisir. Skuy produktif, Skuy belajar!.</p>
 
 <hr>
