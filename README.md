@@ -99,5 +99,5 @@
 <p>Untuk pertanyaan lebih lanjut atau melaporkan bug, silakan hubungi:</p>
 <ul>
     <li>Email: divaahmadpradana72@gmail.com.com</li>
-    <li>GitHub: <a href="https://github.com/DivaIsReal">username</a></li>
+    <li>GitHub: <a href="https://github.com/DivaIsReal">DivaIsReal</a></li>
 </ul>
