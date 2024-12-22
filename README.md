@@ -10,6 +10,7 @@
             <li>Kalau tidak punya bisa mengganti dengan foto idola.</li>
         </ul>
     </li>
+    <br>
     <li><strong>To-Do List</strong>
         <ul>
             <li>Tambahkan, edit, dan hapus tugas dengan mudah.</li>
