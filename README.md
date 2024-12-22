@@ -91,7 +91,7 @@ Akses Aplikasi Disini: <a href="https://divaisreal.github.io/SkuyTaskApp/project
 <hr>
 
 <h2>Lisensi</h2>
-<p>Proyek ini dilisensikan di bawah <a href="LICENSE">MIT License</a>.</p>
+<p>Proyek ini dilisensikan di bawah <a href="LICENSE">Icikiwir MT</a>.</p>
 
 <hr>
 
