@@ -1,5 +1,5 @@
 <p><strong>SkuyTask</strong></p> 
-<p>adalah aplikasi manajemen waktu dan produktivitas yang menggabungkan fitur to-do list dengan Pomodoro timer. Dirancang untuk membantu pengguna mengelola tugas dengan lebih efisien dan menjaga fokus saat bekerja.</p>
+<p>Selamat datang di SkuyTask! Platform all-in-one untuk mahasiswa produktif. Kelola to-do list, atur waktu belajar dengan Pomodoro Timer, dan capai tujuanmu dengan lebih terorganisir. Skuy produktif, Skuy belajar!.</p>
 
 <hr>
 
