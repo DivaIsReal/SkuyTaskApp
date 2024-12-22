@@ -1,4 +1,5 @@
-<p><strong>SkuyTask</strong> adalah aplikasi manajemen waktu dan produktivitas yang menggabungkan fitur to-do list dengan Pomodoro timer. Dirancang untuk membantu pengguna mengelola tugas dengan lebih efisien dan menjaga fokus saat bekerja.</p>
+<p><strong>SkuyTask</strong></p> 
+<p>adalah aplikasi manajemen waktu dan produktivitas yang menggabungkan fitur to-do list dengan Pomodoro timer. Dirancang untuk membantu pengguna mengelola tugas dengan lebih efisien dan menjaga fokus saat bekerja.</p>
 
 <hr>
 
