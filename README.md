@@ -4,6 +4,12 @@
 
 <h2>Fitur</h2>
 <ul>
+    <li><strong>MoodBooster</strong>
+        <ul>
+            <li>Menampilkan foto pacar kalian (kalau punya wokwokwok).</li>
+            <li>Kalau tidak punya bisa mengganti dengan foto idola.</li>
+        </ul>
+    </li>
     <li><strong>To-Do List</strong>
         <ul>
             <li>Tambahkan, edit, dan hapus tugas dengan mudah.</li>
