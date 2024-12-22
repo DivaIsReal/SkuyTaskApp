@@ -90,24 +90,6 @@
 
 <hr>
 
-<h2>Kontribusi</h2>
-<p>Kami menyambut kontribusi dari komunitas! Berikut langkah-langkah untuk berkontribusi:</p>
-<ol>
-    <li>Fork repositori ini.</li>
-    <li>Buat branch fitur baru:
-        <pre><code>git checkout -b fitur-baru</code></pre>
-    </li>
-    <li>Commit perubahan Anda:
-        <pre><code>git commit -m "Menambahkan fitur baru"</code></pre>
-    </li>
-    <li>Push branch Anda:
-        <pre><code>git push origin fitur-baru</code></pre>
-    </li>
-    <li>Ajukan pull request ke branch <code>main</code>.</li>
-</ol>
-
-<hr>
-
 <h2>Lisensi</h2>
 <p>Proyek ini dilisensikan di bawah <a href="LICENSE">MIT License</a>.</p>
 
