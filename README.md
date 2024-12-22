@@ -17,17 +17,20 @@
             <li>Ada motivasi sederhana dari developer.</li>
         </ul>
     </li>
+    <br>
     <li><strong>User-Friendly Interface</strong>
         <ul>
             <li>Antarmuka yang sederhana dan mudah digunakan.</li>
         </ul>
     </li>
+    <br>
     <li><strong>Spotify Playlist</strong>
         <ul>
             <li>Belajar sambil mendengarkan musik.</li>
             <li>Belajar menjadi fokus dan tidak ngantuk.</li>
         </ul>
     </li>
+    <br>
      <li><strong>Gacha Quotes</strong>
         <ul>
             <li>Mendapatkan quotes motivasi secara acak.</li>
