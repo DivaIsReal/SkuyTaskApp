@@ -52,16 +52,13 @@
 <h2>Instalasi</h2>
 <ol>
     <li>Clone repositori ini ke komputer Anda:
-        <pre><code>git clone https://github.com/username/SkuyTask.git</code></pre>
+        <pre><code>git clone https://github.com/DivaIsReal/SkuyTaskApp.git</code></pre>
     </li>
     <li>Masuk ke direktori proyek:
         <pre><code>cd SkuyTask</code></pre>
     </li>
-    <li>Install dependensi yang diperlukan:
-        <pre><code>pip install -r requirements.txt</code></pre>
-    </li>
     <li>Jalankan aplikasi:
-        <pre><code>python main.py</code></pre>
+        <pre><code>open with live server index.html</code></pre>
     </li>
 </ol>
 
