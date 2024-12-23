@@ -3,7 +3,6 @@ const addTaskButton = document.getElementById('addTask');
 const taskList = document.getElementById('taskList');
 const saveButton = document.getElementById('saveTasks');
 
-// Fungsi untuk memuat tugas dari localStorage
 function loadTasks() {
     const tasks = JSON.parse(localStorage.getItem('tasks')) || [];
     tasks.forEach(task => {
@@ -11,10 +10,10 @@ function loadTasks() {
     });
 }
 
-// Fungsi untuk membuat dan menambahkan task ke daftar
+//membuat dan menambahkan task ke daftar
 function createTask(taskText, completed = false) {
     const listItem = document.createElement('li');
-    if (completed) listItem.classList.add('completed'); // Tandai sebagai selesai
+    if (completed) listItem.classList.add('completed'); 
 
     // Checkbox
     const checkbox = document.createElement('input');
@@ -26,24 +25,22 @@ function createTask(taskText, completed = false) {
         updateLocalStorage();
     });
 
-    // Task Text
     const taskSpan = document.createElement('span');
     taskSpan.textContent = taskText;
 
-    // Action Buttons Container
     const actions = document.createElement('div');
     actions.classList.add('actions');
 
-    // Edit Button
+    //Edit 
     const editButton = document.createElement('button');
     editButton.classList.add('edit-btn');
     editButton.innerHTML = '&#9998;'; // Edit icon
     editButton.addEventListener('click', () => editTask(taskSpan));
 
-    // Delete Button
+    //Delete 
     const deleteButton = document.createElement('button');
     deleteButton.classList.add('delete-btn');
-    deleteButton.innerHTML = '&#128465;'; // Trash icon
+    deleteButton.innerHTML = '&#128465;'; 
     deleteButton.addEventListener('click', () => {
         listItem.remove();
         updateLocalStorage();
@@ -59,7 +56,7 @@ function createTask(taskText, completed = false) {
     taskList.appendChild(listItem);
 }
 
-// Fungsi untuk menambah task
+//menambah task
 function addTask() {
     const taskText = taskInput.value.trim();
     if (taskText === '') return;
@@ -70,7 +67,7 @@ function addTask() {
     updateLocalStorage();
 }
 
-// Fungsi untuk mengedit task
+//mengedit task
 function editTask(taskSpan) {
     const newText = prompt('Edit your task:', taskSpan.textContent);
     if (newText !== null) {
@@ -79,7 +76,7 @@ function editTask(taskSpan) {
     }
 }
 
-// Fungsi untuk menyimpan tasks ke localStorage
+//menyimpan tasks ke localStorage
 function updateLocalStorage() {
     const tasks = [];
     const taskItems = document.querySelectorAll('li');
@@ -93,7 +90,7 @@ function updateLocalStorage() {
     localStorage.setItem('tasks', JSON.stringify(tasks));
 }
 
-// Fungsi untuk menyimpan task manual (untuk button save)
+//menyimpan task manual (untuk button save)
 function saveTasks() {
     updateLocalStorage();
     alert('Tasks saved successfully!');
@@ -106,5 +103,4 @@ taskInput.addEventListener('keypress', (e) => {
 });
 saveButton.addEventListener('click', saveTasks);
 
-// Load tasks saat halaman pertama kali dimuat
 window.addEventListener('load', loadTasks);
